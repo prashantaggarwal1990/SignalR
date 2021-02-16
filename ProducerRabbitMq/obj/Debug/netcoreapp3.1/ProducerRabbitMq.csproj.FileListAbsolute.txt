@@ -1,0 +1,16 @@
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\ProducerRabbitMq.exe
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\ProducerRabbitMq.deps.json
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\ProducerRabbitMq.runtimeconfig.json
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\ProducerRabbitMq.runtimeconfig.dev.json
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\ProducerRabbitMq.dll
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\ProducerRabbitMq.pdb
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.csprojAssemblyReference.cache
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.AssemblyInfoInputs.cache
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.AssemblyInfo.cs
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.csproj.CoreCompileInputs.cache
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.csproj.CopyComplete
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.dll
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.pdb
+C:\Learning\.NetCore_Microservices\ProducerConsumerRabbitMq\ProducerRabbitMq\obj\Debug\netcoreapp3.1\ProducerRabbitMq.genruntimeconfig.cache
